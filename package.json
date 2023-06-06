@@ -1,6 +1,6 @@
 {
   "name": "@curg/wyvern-v3",
-  "version": "3.1.0-1",
+  "version": "3.1.0-2",
   "description": "Wyvern Protocol v3.1, Ethereum implementation",
   "files": [
     "contracts"
